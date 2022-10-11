@@ -96,3 +96,6 @@ Content/__ExternalActors__*
 Content/__ExternalObjects__*
 Content/Characters/*
 Content/ThirdPerson/*
+
+#Level Prototyping
+Content/LevelPrototyping/*
